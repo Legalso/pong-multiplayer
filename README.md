@@ -6,3 +6,5 @@ Versão multiplayer da minha recriação do jogo clássico de 1972, usando Javas
 Criado com base nas videoaulas do curso de Lógica de Programação da Alura, porém com muitas modificações.
 
 Link do jogo: https://legalso.github.io/Pong-Multiplayer/
+
+Versão Singleplayer: https://legalso.github.io/Pong/
