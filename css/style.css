@@ -1,0 +1,17 @@
+html {
+  background-color: rgb(17, 17, 17);
+  color: #00ff00;
+}
+html, head {
+  text-align: center;
+}
+html, body {
+    height: 80%;
+  }
+
+#stylesheet {
+  margin: 0;
+  display: block;
+  justify-content: center;
+  align-items: center;
+}
